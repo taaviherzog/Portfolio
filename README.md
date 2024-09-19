@@ -35,8 +35,8 @@
 - Assisted the professor in responding to emails and accomodating extraneous student requirements
 
 ## Projects (In Progress)
-**Identifying Deteriorating Properties in Pittsburgh:** <a href = "https://github.com/taaviherzog/urban-blight" target = "_blank">Repository</a>
+**Optimized Portfolio of S&P 500 Sector Indexes:** <a href = "https://github.com/taaviherzog/Optimized-Portfolio-of-Sector-Indexes" target = "_blank">Repository</a>
 
 **Automating Summarization of FOMC Member Speeches:** <a href = "https://github.com/taaviherzog/FOMC-speeches" target = "_blank">Repository</a>
 
-**Optimized Portfolio of S&P 500 Sector Indexes:** <a href = "https://github.com/taaviherzog/Optimized-Portfolio-of-Sector-Indexes" target = "_blank">Repository</a>
+**Identifying Deteriorating Properties in Pittsburgh:** <a href = "https://github.com/taaviherzog/urban-blight" target = "_blank">Repository</a>
