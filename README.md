@@ -39,4 +39,4 @@
 
 **Automating Summarization of FOMC Member Speeches:** <a href = "https://github.com/taaviherzog/FOMC-speeches" target = "_blank">Repository</a>
 
-**Visualizing Geographical Clustering of Adversity and Affluence Across Pittsburgh:** <a href = "https://github.com/taaviherzog/urban-blight" target = "_blank">Repository</a>
+**Geographical Clustering of Adversity and Affluence Across Pittsburgh:** <a href = "https://github.com/taaviherzog/urban-blight" target = "_blank">Repository</a>
